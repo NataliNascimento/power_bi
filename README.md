@@ -2,9 +2,9 @@
 Tracking my progress in Power BI through practical projects and data visualization exercises
 
 # About
-Tracking my progress in Power BI through practical projects and data visualization exercises.
+This repository tracks my progress in Power BI through practical projects and data visualization exercises.
 
-# Projects
+# 📁 Projects
 
 ### 1. Sales Dashboard
 - Description: Sales performance dashboard
