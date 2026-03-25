@@ -1,5 +1,8 @@
-# power_bi
+# 📊 Power BI Portfolio
 Tracking my progress in Power BI through practical projects and data visualization exercises
+
+# 📊 About
+Tracking my progress in Power BI through practical projects and data visualization exercises.
 
 ## 📁 Projects
 
