@@ -41,7 +41,8 @@ This project presents a sales performance dashboard developed in Power BI, focus
   - States with highest sales
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](./image.png)
+![Sales Dashboard](./home.png)
+![Sales Dashboard](./overview.png)
 
 ## 📈 Key Insights
 - Revenue shows variation over time with identifiable growth patterns
