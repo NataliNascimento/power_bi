@@ -1,22 +1,27 @@
-# Power BI Portfolio
-Tracking my progress in Power BI through practical projects and data visualization exercises
+# 📊 Power BI Portfolio
 
-# About
-This repository tracks my progress in Power BI through practical projects and data visualization exercises.
+Tracking my progress in Power BI through practical projects and data visualization exercises.
 
-# 📁 Projects
+## 📊 About
+This repository showcases my Power BI projects focused on data analysis, visualization, and business insights.
+
+## 📁 Projects
 
 ### 1. Sales Dashboard
-- Description: Sales performance dashboard
-- Tools: Power BI, Excel
-- Highlights:
-  - Annual revenue overview
-  - Monthly revenue growth
-  - Top-performing sales representatives
-  - Sales distribution by state
+📁 [View Project](./sales_dashboard)  
+Power BI dashboard for sales performance analysis, including revenue trends, top-performing sales representatives, and regional insights.
 
-# Skills Developed
+---
+
+### 2. Cash Flow Dashboard
+📁 [View Project](./cash_flow_dashboard)  
+Financial dashboard focused on revenue, costs, expenses, and profitability analysis over time.
+
+---
+
+## 🚀 Skills Developed
 - Data visualization
 - Dashboard design
 - Data analysis
 - Business insights
+- Financial analysis
